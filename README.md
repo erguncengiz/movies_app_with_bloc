@@ -1,4 +1,4 @@
-# my_app
+# Movies App With Cubit - BLoc
 
 A new Flutter project.
 
